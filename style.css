@@ -1,0 +1,27 @@
+#admin {
+	background-color: navy;
+	text-align: center;
+	color: white;
+	height: 70px;
+	padding-top: 22px;
+	text-decoration: none;
+}
+
+#admin:hover {
+	background-color: white;
+	color: navy;
+}
+
+a {
+	text-decoration: none;
+}
+
+#wrapper {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	width: 30%;
+}
+
